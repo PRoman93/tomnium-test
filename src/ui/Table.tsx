@@ -1,5 +1,5 @@
 import React from "react";
-import './App.css';
+import s from'./Table.module.css';
 type OwnPropsType = {
     keys:string[],
     values: number[],

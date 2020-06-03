@@ -3,3 +3,24 @@
     font-size: 40px;
     text-align: center;
 }
+
+
+table{
+    margin: 0 auto;
+    text-align: center;
+    border-spacing: 5px;
+    background: cornflowerblue;
+    color: yellow;
+    border: 10px solid palegreen;
+    border-radius: 20px;
+}
+th{
+    font-size: 18px;
+    padding: 10px;
+    background: midnightblue;
+}
+td{
+    background: midnightblue;
+    padding: 10px;
+}
+
