@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/tomnium-test/static/css/main.c00e23d8.chunk.css",
-    "main.js": "/tomnium-test/static/js/main.b93b96ea.chunk.js",
-    "main.js.map": "/tomnium-test/static/js/main.b93b96ea.chunk.js.map",
+    "main.css": "/tomnium-test/static/css/main.95cc2b53.chunk.css",
+    "main.js": "/tomnium-test/static/js/main.fd937979.chunk.js",
+    "main.js.map": "/tomnium-test/static/js/main.fd937979.chunk.js.map",
     "runtime-main.js": "/tomnium-test/static/js/runtime-main.5712f658.js",
     "runtime-main.js.map": "/tomnium-test/static/js/runtime-main.5712f658.js.map",
-    "static/js/2.916da629.chunk.js": "/tomnium-test/static/js/2.916da629.chunk.js",
-    "static/js/2.916da629.chunk.js.map": "/tomnium-test/static/js/2.916da629.chunk.js.map",
+    "static/js/2.f731c012.chunk.js": "/tomnium-test/static/js/2.f731c012.chunk.js",
+    "static/js/2.f731c012.chunk.js.map": "/tomnium-test/static/js/2.f731c012.chunk.js.map",
     "index.html": "/tomnium-test/index.html",
-    "precache-manifest.1c821a051e6eacae12546fa36bb6f629.js": "/tomnium-test/precache-manifest.1c821a051e6eacae12546fa36bb6f629.js",
+    "precache-manifest.47ff9aabb2b6e7e0053bab3c8eee45bb.js": "/tomnium-test/precache-manifest.47ff9aabb2b6e7e0053bab3c8eee45bb.js",
     "service-worker.js": "/tomnium-test/service-worker.js",
-    "static/css/main.c00e23d8.chunk.css.map": "/tomnium-test/static/css/main.c00e23d8.chunk.css.map",
-    "static/js/2.916da629.chunk.js.LICENSE.txt": "/tomnium-test/static/js/2.916da629.chunk.js.LICENSE.txt"
+    "static/css/main.95cc2b53.chunk.css.map": "/tomnium-test/static/css/main.95cc2b53.chunk.css.map",
+    "static/js/2.f731c012.chunk.js.LICENSE.txt": "/tomnium-test/static/js/2.f731c012.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5712f658.js",
-    "static/js/2.916da629.chunk.js",
-    "static/css/main.c00e23d8.chunk.css",
-    "static/js/main.b93b96ea.chunk.js"
+    "static/js/2.f731c012.chunk.js",
+    "static/css/main.95cc2b53.chunk.css",
+    "static/js/main.fd937979.chunk.js"
   ]
 }

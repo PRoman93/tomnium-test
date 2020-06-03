@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tomnium-test/precache-manifest.1c821a051e6eacae12546fa36bb6f629.js"
+  "/tomnium-test/precache-manifest.47ff9aabb2b6e7e0053bab3c8eee45bb.js"
 );
 
 self.addEventListener('message', (event) => {
